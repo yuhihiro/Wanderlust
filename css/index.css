@@ -1,0 +1,86 @@
+
+* {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background: #00ff88;
+    height: 10vh;
+    background: #201b2c;
+}
+
+.icon-menu{
+    color: #fff;
+    padding-top: 35px;
+    letter-spacing: 5px;
+    margin: 5px;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+
+}
+
+.nav-list li {
+    font-size: 20px;
+    letter-spacing: 5px;
+    margin-left: 28px;
+    margin-top: 30px;
+   
+}
+
+.nav-list li a{
+    padding: 10px 15px;
+    color: #fff;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.nav-list li a:hover{
+    background: #fff;
+    color: #23232e;
+}
+
+.pad{
+    padding-bottom: 50px;
+    padding-left: 700px;
+}
+
+.text {
+    padding-top: 50px;
+}
+
+.text h1{
+    padding-bottom: 20px;
+    font-size: 10vh;
+    text-align: justify;
+}
+
+.text p{
+    padding-bottom: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.prog{
+    color: #fff;
+    background-color: #23232e;
+    padding-top: 100px;
+}
+
+.baixo{
+    padding-bottom: 150px;
+}
+
+.img-logo{
+    padding-bottom: 50px;
+    padding-left: 15px;
+}
